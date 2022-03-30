@@ -3,7 +3,7 @@
 [Demo](https://www.youtube.com/watch?v=QkNMnZRGeCs)
 ## Khóa luận tốt nghiệp chuyên ngành khoa học máy tính
 
-### Tên đề tài: MÔ HÌNH SINH MẪU
+### Tên đề tài: Mô hình đối kháng sinh mẫu cho chuyển đổi giữa các miền không gian ảnh - ứng dụng trên video
 
 ### Giáo viên hướng dẫn: PGS.TS Lê Hoàng Thái
 
