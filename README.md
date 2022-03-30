@@ -1,6 +1,6 @@
 # LatentManipulation
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tungrg/LatentManipulation/blob/master/Demo.ipynb)
-[Demo](https://www.youtube.com/watch?v=QkNMnZRGeCs)
+[[Demo](https://www.youtube.com/watch?v=QkNMnZRGeCs)]
+[[Colab](https://colab.research.google.com/github/tungrg/LatentManipulation/blob/master/Demo.ipynb)]
 ## Khóa luận tốt nghiệp chuyên ngành khoa học máy tính
 
 ### Tên đề tài: Mô hình đối kháng sinh mẫu cho chuyển đổi giữa các miền không gian ảnh - ứng dụng trên video
