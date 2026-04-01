@@ -17,3 +17,22 @@
 | Vòng Cảnh Chi | 18120293 | 18120293@student.hcmus.edu.vn |
 
 ### Loại đề tài: Nghiên cứu
+
+---
+
+## Computer Science Bachelor's Thesis
+
+### Title: Generative Adversarial Model for Cross-domain Image Space Transfer - Application on Video
+
+### Supervisor: Assoc. Prof. Dr. Le Hoang Thai
+
+### Duration: 9/2021 - 3/2022
+
+### Students:
+
+| Name | Student ID | Mail |
+| ------------ | ------------- | ------------- |
+| Tran Thanh Tung | 18120258 | 18120258@student.hcmus.edu.vn |
+| Vong Canh Chi | 18120293 | 18120293@student.hcmus.edu.vn |
+
+### Type: Research
